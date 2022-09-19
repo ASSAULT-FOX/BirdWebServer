@@ -25,6 +25,10 @@
         <module>V14</module>
         <module>V15</module>
         <module>V16</module>
+        <module>V17</module>
+        <module>V18</module>
+        <module>V19</module>
+        <module>JDBCDemo</module>
     </modules>
 
     <properties>
@@ -36,5 +40,14 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.15</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

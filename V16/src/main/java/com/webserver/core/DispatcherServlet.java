@@ -44,6 +44,9 @@ public class DispatcherServlet {
         if("/regUser".equals(path)){
             UserController controller = new UserController();
             controller.reg(request, response);
+        }else if("/loginUser".equals(path)){
+            UserController controller = new UserController();
+            controller.login(request, response);
         }else {
             File file = new File(staticDir, path);
             if (file.isFile()) {//根据用户提供的抽象路径去static目录下定位到一个文件

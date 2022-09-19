@@ -7,25 +7,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/V10/pom.xml" />
-        <option value="$PROJECT_DIR$/V11/pom.xml" />
-        <option value="$PROJECT_DIR$/V12/pom.xml" />
-        <option value="$PROJECT_DIR$/V13/pom.xml" />
-        <option value="$PROJECT_DIR$/V14/pom.xml" />
-        <option value="$PROJECT_DIR$/V15/pom.xml" />
-        <option value="$PROJECT_DIR$/V16/pom.xml" />
-        <option value="$PROJECT_DIR$/V2/pom.xml" />
-        <option value="$PROJECT_DIR$/V3/pom.xml" />
-        <option value="$PROJECT_DIR$/V4/pom.xml" />
-        <option value="$PROJECT_DIR$/V5/pom.xml" />
-        <option value="$PROJECT_DIR$/V6/pom.xml" />
-        <option value="$PROJECT_DIR$/V7/pom.xml" />
-        <option value="$PROJECT_DIR$/V8/pom.xml" />
-        <option value="$PROJECT_DIR$/V9/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
